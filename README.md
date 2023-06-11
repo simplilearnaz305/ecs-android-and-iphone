@@ -1,6 +1,6 @@
-# ECS Cats and Dogs
+# ECS Android and iPhone
 
-In this workshop, we will build and deploy a containerized/auto-scaling web application that will randomly display a cat picture, or dog picture (depending on what the user selects). We will also implement container observability tools, perform load testing on the web application, and monitor the outcome
+In this workshop, we will build and deploy a containerized/auto-scaling web application that will randomly display a android picture, or iphone picture (depending on what the user selects). We will also implement container observability tools, perform load testing on the web application, and monitor the outcome
 
 ## Who is this workshop best for?
 
@@ -12,7 +12,7 @@ Foundational understanding of containers and Amazon Elastic Container Service (E
 
 ## Workshop Duration
 
-The estimated duration for completing this workshop is 3 hours
+The estimated duration for completing this workshop is 6 hours
 
 ## Workshop Outcomes
 
@@ -27,4 +27,3 @@ Successful completion of this workshop will give us a working example of:
 * Amazon Elastic Load Balancer (ELB)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
